@@ -1,7 +1,7 @@
 FP-Markdown\
 Claudio Martins\
 2190760\
-Linguagens de Programação conhecidas:
+Linguagens de Programação conhecidas:\
 - C\
 - JavaScript\
 - Python\
